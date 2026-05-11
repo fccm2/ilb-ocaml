@@ -1,0 +1,9 @@
+doc
+*.cmx
+*.cmxa
+*.cma
+*.cmi
+*.cmo
+*.a
+*.o
+*.so
