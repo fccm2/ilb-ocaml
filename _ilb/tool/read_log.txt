@@ -1,0 +1,2 @@
+Read the .log's insert'd into a .pbm file and convert it into
+op-code,

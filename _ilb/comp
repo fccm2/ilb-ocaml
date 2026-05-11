@@ -1,0 +1,17 @@
+
+compile the caml-interface:
+```
+$ make caml
+```
+
+for the pure-c interface:
+```
+$ make
+$ make test
+```
+
+cleaning every directories:
+```
+$ make clean
+```
+

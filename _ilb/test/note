@@ -1,0 +1,4 @@
+ascii   binary  ext
+P1      P4      .pbm
+P2      P5      .pgm
+P3      P6      .ppm

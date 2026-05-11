@@ -1,0 +1,14 @@
+<lay w="120" h="80">
+  <img>
+    <rect x="10" y="40" w="20" h="20" v="1" />
+  </img>
+  <img lay-mode="TRANSP_COLOR" lay-col="(0, 255, 0)">
+    <circ x="10" y="40" r="20" v="1" />
+  </img>
+  <img lay-mode="TRANSP_COLOR" lay-col="(0, 0, 0)">
+    <mana>
+      <plot x="20" y="10" v="1" />
+      <plot x="22" y="12" v="0" />
+    </mana>
+  </img>
+</lay>

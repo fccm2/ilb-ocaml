@@ -1,0 +1,2 @@
+$ \ocaml -I $XE_DIR xmlerr.cma read_lay.ml lay1.xml > lay1.ml
+$ \ocaml -I ../caml/ imlb.cma lay1.ml > lay1.ppm

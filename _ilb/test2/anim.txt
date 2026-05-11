@@ -1,0 +1,5 @@
+$ \ocaml -I ../caml/ imlb.cma test_lay5.ml > lay5.log
+
+$ \ocaml log_to_anim.ml lay5.log > lay5.sh
+$ sh lay5.sh
+

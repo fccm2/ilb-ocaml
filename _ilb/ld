@@ -1,0 +1,12 @@
+please don't forget to do:
+```
+LD_LIBRARY_PATH="$(pwd)"
+```
+in the lib/ dir.
+
+and:
+```
+export LD_LIBRARY_PATH
+```
+after.
+

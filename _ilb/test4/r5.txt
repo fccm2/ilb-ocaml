@@ -1,0 +1,4 @@
+$ \ocaml -I ../caml/ imlb.cma test_r5.ml > r5.log
+$ \ocaml ../test2/log_to_anim.ml r5.log > r5.sh
+$ sh r5.sh
+$# rm -f r5000.pbm  r5001.pbm  r5002.pbm

@@ -1,0 +1,4 @@
+$ \ocaml -I ../caml/ imlb.cma -I . opAm.cmo test_r8.ml > r8.log
+$ \ocaml ../test2/log_to_anim.ml r8.log > r8.sh
+$ sh r8.sh
+$ mv r8.gif
