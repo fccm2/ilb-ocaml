@@ -1,4 +1,4 @@
-ocaml version 4.14.1, compatible,  
+ocaml version 4.14.1 or compatible,  
 a .c compilator, gcc for example,  
 and eventually `make` to compile
 with no efforts,
